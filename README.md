@@ -12,6 +12,8 @@ Stella Fritzell - Digital Scholarship Graduate Assistant
 
 Karina Gonzalez - EaST Assistant
 
+Audrian Flory - DTI Intern who hasn't coded anything since high school comp-sci
+
 ## Schedule
 
 ### Week 1 (May 31 - June 3) [Introduction to Digital Scholarship](weeks/01-intro.md)
