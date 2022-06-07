@@ -14,6 +14,8 @@ Karina Gonzalez - EaST Assistant
 
 Audrian Flory - a DTI Intern who hasn't coded anything since high school comp-sci class that was terrible
 
+Buffy Summers Flory - Audrian's service dog who knows nothing about computers but will help by chewing on them for you
+
 ## Schedule
 
 ### Week 1 (May 31 - June 3) [Introduction to Digital Scholarship](weeks/01-intro.md)
