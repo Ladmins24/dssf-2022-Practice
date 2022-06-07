@@ -12,7 +12,7 @@ Stella Fritzell - Digital Scholarship Graduate Assistant
 
 Karina Gonzalez - EaST Assistant
 
-Audrian Flory - DTI Intern who hasn't coded anything since high school comp-sci
+Audrian Flory - a DTI Intern who hasn't coded anything since high school comp-sci class that was terrible
 
 ## Schedule
 
